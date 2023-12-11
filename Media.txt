@@ -1,0 +1,157 @@
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+    
+    main .item {
+        width: 340px;
+        margin-bottom: 50px;
+        background: #747070;
+        overflow: hidden;
+        position: relative;
+        padding-bottom: 20px;
+        margin-left: 16px;
+        border-radius: 10px 10px 10px 10px;
+     }
+     main .add-to-cart
+   {
+
+bottom: 10px;
+margin: auto;
+position: absolute;
+margin: 10px 20px;
+right: 0;
+background:#fd7e14;
+width: 150px;
+height: 60px;
+text-align: center;
+line-height: 60px;
+color: #fff;
+border-radius: 12px;
+cursor: pointer;
+font-weight: 300;
+font-size: 25px;
+transition: transform 500ms ease;
+
+
+}
+
+
+}
+  
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+    
+    main .item {
+        width: 340px;
+        margin-bottom: 50px;
+        background: #747070;
+        overflow: hidden;
+        position: relative;
+        padding-bottom: 20px;
+        margin-left: 16px;
+        border-radius: 10px 10px 10px 10px;
+     }
+     main .add-to-cart
+   {
+
+bottom: 10px;
+margin: auto;
+position: absolute;
+margin: 10px 20px;
+right: 0;
+background:#fd7e14;
+width: 150px;
+height: 60px;
+text-align: center;
+line-height: 60px;
+color: #fff;
+border-radius: 12px;
+cursor: pointer;
+font-weight: 300;
+font-size: 25px;
+transition: transform 500ms ease;
+
+
+}
+}
+  
+/* Landscape phones and smaller */
+@media (max-width: 480px) {
+    
+    main .item {
+        width: 340px;
+        margin-bottom: 50px;
+        background: #747070;
+        overflow: hidden;
+        position: relative;
+        padding-bottom: 20px;
+        margin-left: 16px;
+        border-radius: 10px 10px 10px 10px;
+     }
+     main .add-to-cart
+   {
+
+bottom: 10px;
+margin: auto;
+position: absolute;
+margin: 10px 20px;
+right: 0;
+background:#fd7e14;
+width: 150px;
+height: 60px;
+text-align: center;
+line-height: 60px;
+color: #fff;
+border-radius: 12px;
+cursor: pointer;
+font-weight: 300;
+font-size: 25px;
+transition: transform 500ms ease;
+
+
+}
+}
+  
+/* Small phones */
+@media (max-width: 320px) {
+    
+    main .item {
+        width: 340px;
+        margin-bottom: 50px;
+        background: #747070;
+        overflow: hidden;
+        position: relative;
+        padding-bottom: 20px;
+        margin-left: 16px;
+        border-radius: 10px 10px 10px 10px;
+     }
+     main .add-to-cart
+   {
+
+bottom: 10px;
+margin: auto;
+position: absolute;
+margin: 10px 20px;
+right: 0;
+background:#fd7e14;
+width: 150px;
+height: 60px;
+text-align: center;
+line-height: 60px;
+color: #fff;
+border-radius: 12px;
+cursor: pointer;
+font-weight: 300;
+font-size: 25px;
+transition: transform 500ms ease;
+
+
+}
+.map {
+    width: 20px;
+    
+}
+} 
+
+      
+
+   
