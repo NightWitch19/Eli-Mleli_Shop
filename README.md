@@ -1,3 +1,3 @@
-npm run dev - сервер
-npm run start - клиент
+#npm run dev - сервер
+#npm run start - клиент
 
